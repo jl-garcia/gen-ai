@@ -1,0 +1,14 @@
+{
+  "name": "task-management-backend",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "bcrypt": "^5.0.0",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
